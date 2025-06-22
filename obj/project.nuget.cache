@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGNSLupb2FQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wesle\\Desktop\\Nova pasta (2)\\ConfiguracaoPorAmbienteAPI\\ConfiguracaoPorAmbienteAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
